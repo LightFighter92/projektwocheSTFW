@@ -1,0 +1,23 @@
+header{
+    height:auto;
+    border:1px solid black;
+    margin-bottom:20px;
+    background-color:#007bff;
+}
+
+section{
+    margin-bottom: 20px;
+}
+
+article{
+    height:500px;
+}
+
+aside{
+    height:300px;
+}
+
+footer{
+    height:50px;
+    text-align: right;
+}
